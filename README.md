@@ -1,4 +1,4 @@
-# API 2019 final project
+# PoliMi ***Algoritmi e Principi dell'Informatica*** 2019 course final project
 
 Implementation of a system to monitor relationships among entities. 
 
