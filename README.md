@@ -1,4 +1,4 @@
-# PoliMi ***Algoritmi e Principi dell'Informatica*** 2019 course final project
+# PoliMi ***Algoritmi e Principi dell'Informatica*** 2019 course final project: A system to manage relationships between entities
 
 Implementation of a system to monitor relationships between entities. 
 
