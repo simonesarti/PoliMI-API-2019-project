@@ -1,6 +1,6 @@
 # PoliMi ***Algoritmi e Principi dell'Informatica*** 2019 course final project
 
-Implementation of a system to monitor relationships among entities. 
+Implementation of a system to monitor relationships between entities. 
 
 Written in C
 
